@@ -1,2 +1,2 @@
 # Dit
-Editor for developers
+Documents Editor for developers
